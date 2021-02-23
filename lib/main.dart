@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
         backgroundColor: Colors.teal,
         appBar: AppBar(
           backgroundColor: Colors.blueGrey,
-          title: Text('Purim Sameaj'),
+          title: Text('Purim Sameaj!!!!'),
         ),
         body: Center(
           child: Image.network(
